@@ -6,7 +6,7 @@ Code in `NodeJS` using framework's `Colors` & `Node-Fetch`
 
 `1º Install Node-JS`
 
-`2º After installing NodeJS, download the files and install the packages | npm i`
+`2º Open install.bat`
 
 `3º Add tokens in tokens.txt`
 

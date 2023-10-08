@@ -4,9 +4,9 @@ A discord valid token checker project made with `NodeJS` using the packages `Col
 
 **INSTALL**
 
-`1º Install` [*Node.js*](https://nodejs.org/en/download)
+`1º Install` [`Node.js`](https://nodejs.org/en/download)
 
-`2º Run install.bat or `install.sh`
+`2º Run install.bat or install.sh`
 
 `3º Add tokens in tokens.txt`
 

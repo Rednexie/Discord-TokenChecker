@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "run": "node ."
+    "test": "nodemon ."
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

@@ -1,4 +1,8 @@
-const fetch = require('node-fetch')
+// v2.6.1
+// const fetch = require('node-fetch')
+// v2.6.1
+
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const fs = require('fs')
 var tokens = fs.readFileSync('tokens.txt', 'utf-8').replace(/\r/g, '').split('\n')
 const colors = require('colors')
